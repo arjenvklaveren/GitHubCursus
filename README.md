@@ -7,3 +7,4 @@ Oeps, geen commitnaam gegeven.
 
 Dit is change nummer 1
 Dit is change nummer 2, maar dan op een nieuwe branch
+Dit is change nummer 3, om git diff te kunnen testen
